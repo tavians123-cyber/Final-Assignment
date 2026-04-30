@@ -13,3 +13,4 @@ Minor: Space bar starts the game on the main menu.
 
 Minor: The player is automatically booted to the main menu after the lose screen.
 
+Video link: https://youtu.be/Z7y3GdenAOk
